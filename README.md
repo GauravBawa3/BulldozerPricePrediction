@@ -16,4 +16,4 @@ This project requires Python 3 and the following Python libraries installed:
 4. Seaborn
 5. scikit-learn
 
-You will also need to have software installed to run and execute a Jupyter Noteboo
+You will also need to have software installed to run and execute a Jupyter Notebook
