@@ -1,2 +1,2 @@
-# MachineLearning
-Machine Learning Projects
+# Predicting the price of Bulldozer using Machine Learning
+
