@@ -3,7 +3,7 @@
 - In this project I am predicting the sales price of the bulldozer using Random Forest Algorithm.
 - The evaluation metric used for this analysis is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
 
-### 
+### Data
 
 - The data is downloaded from the Kaggle Bluebook for Bulldozers : https://www.kaggle.com/c/bluebook-for-bulldozers/data
 
